@@ -64,10 +64,14 @@ Bottom Navigation Bar (5 layar)
 
 👤 Biodata Pengembang
 Keterangan	Isi
+
 Nama	Farhan Hanif Arifin
+
 NIM	    14022300099
+
 Kelas	5B-INF
 
+---
 <img width="465" height="1008" alt="Screenshot 2025-12-10 163950" src="https://github.com/user-attachments/assets/556f6e8e-6b54-4376-bead-4ba95a9cb75e" />
 <img width="484" height="1005" alt="Screenshot 2025-12-10 164003" src="https://github.com/user-attachments/assets/e16eb404-7594-4b49-bb71-6e915cf52821" />
 <img width="477" height="1002" alt="Screenshot 2025-12-10 164015" src="https://github.com/user-attachments/assets/5497f8fe-1a0a-4a06-b18a-ba756e52c0fb" />
